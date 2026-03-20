@@ -1,4 +1,4 @@
-# Psychological Health Diagnostic Tool
+# Psychological Diagnostic Tool
 
 ## Overview
 
@@ -60,9 +60,4 @@ If you experience elevated risk or high burden indicators, please consult:
 
 ## Language
 
-Slovak language interface
-
----
-
-**Project**: Psychological Health Diagnostic Assessment  
-**Version**: 1.0
+Slovak language used 
